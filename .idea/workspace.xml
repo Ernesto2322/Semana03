@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b78a8b2a-692f-4624-9a0f-7d86235b8d62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Semana03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalificacionesNúmericasyLiterales_v1_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConversorDeGrados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CálculoDelaRaízCuadrada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DibujoDeUnCuadrado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InteresesDeUnaCuentaBancaria_v1_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrdenarNúmeros_v1_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="b78a8b2a-692f-4624-9a0f-7d86235b8d62" name="Changes" comment="Se añaden los programas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ernesto2322/Semana03.git",
+    "accountId": "5291e8d7-fdfc-4c87-83ae-af1fd3e467cd"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -98,7 +90,20 @@
       <option name="presentableId" value="Default" />
       <updated>1725363894820</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se añaden los programas">
+      <option name="closed" value="true" />
+      <created>1725367046086</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725367046086</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se añaden los programas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se añaden los programas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
